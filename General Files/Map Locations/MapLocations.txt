@@ -1,0 +1,13 @@
+
+---PARTE 1---(Horizontal/Vertical)
+alderaan X:312 Y:994 Inverted:No
+sullust X:673 Y:925 Inverted:No
+
+---PARTE 2----(Diagonal)
+rodia X:482 Y:734 Orientation:Right Inverted:No
+dantooine X:419 Y:824 Orientation:Right Inverted:No
+hoth X:440 Y:910 Orientation:Right Inverted:No
+bespin X:345 Y:844 Orientation:Left Inverted:No
+coruscant X:525 Y:267 Orientation:Left Inverted:No
+kamino X:626 Y:243 Orientation:Right Inverted:No
+mustafar X:258 Y:461 Orientation:Left Inverted:Yes

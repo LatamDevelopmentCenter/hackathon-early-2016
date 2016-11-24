@@ -1,0 +1,80 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,gender,homeworld
+Luke Skywalker,172,77,blond,fair,blue,19BBY,male,1
+C-3PO,167,75,n/a,gold,yellow,112BBY,n/a,1
+R2-D2,96,32,n/a,"white, blue",red,33BBY,n/a,8
+Darth Vader,202,136,none,white,yellow,41.9BBY,male,1
+Leia Organa,150,49,brown,light,brown,19BBY,female,2
+Owen Lars,178,120,"brown, grey",light,blue,52BBY,male,1
+Beru Whitesun lars,165,75,brown,light,blue,47BBY,female,1
+R5-D4,97,32,n/a,"white, red",red,unknown,n/a,1
+Biggs Darklighter,183,84,black,light,brown,24BBY,male,1
+Obi-Wan Kenobi,182,77,"auburn, white",fair,blue-gray,57BBY,male,20
+Wilhuff Tarkin,180,unknown,"auburn, grey",fair,blue,64BBY,male,21
+Chewbacca,228,112,brown,unknown,blue,200BBY,male,14
+Han Solo,180,80,brown,fair,brown,29BBY,male,22
+Greedo,173,74,n/a,green,black,44BBY,male,23
+Jabba Desilijic Tiure,175,"1,358",n/a,"green-tan, brown",orange,600BBY,hermaphrodite,24
+Wedge Antilles,170,77,brown,fair,hazel,21BBY,male,22
+Jek Tono Porkins,180,110,brown,fair,blue,unknown,male,26
+Yoda,66,17,white,green,brown,896BBY,male,28
+Palpatine,170,75,grey,pale,yellow,82BBY,male,8
+IG-88,200,140,none,metal,red,15BBY,none,28
+Bossk,190,113,none,green,red,53BBY,male,29
+Lando Calrissian,177,79,black,dark,brown,31BBY,male,30
+Lobot,175,79,none,light,blue,37BBY,male,6
+Ackbar,180,83,none,brown mottle,orange,41BBY,male,31
+Mon Mothma,150,unknown,auburn,fair,blue,48BBY,female,32
+Arvel Crynyd,unknown,unknown,brown,fair,brown,unknown,male,28
+Wicket Systri Warrick,88,20,brown,brown,brown,8BBY,male,7
+Nien Nunb,160,68,none,grey,black,unknown,male,33
+Nute Gunray,191,90,none,mottled green,red,unknown,male,18
+Finis Valorum,170,unknown,blond,fair,blue,91BBY,male,9
+PadmÃƒÂ© Amidala,185,45,brown,light,brown,46BBY,female,8
+Jar Jar Binks,196,66,none,orange,orange,52BBY,male,8
+Roos Tarpals,224,82,none,grey,orange,unknown,male,8
+Rugor Nass,206,unknown,none,green,orange,unknown,male,8
+Ric OliÃƒÂ©,183,unknown,brown,fair,blue,unknown,male,8
+Watto,137,unknown,black,"blue, grey",yellow,unknown,male,34
+Sebulba,112,40,none,"grey, red",orange,unknown,male,35
+Shmi Skywalker,163,unknown,black,fair,brown,72BBY,female,1
+Darth Maul,175,80,none,red,yellow,54BBY,male,36
+Bib Fortuna,180,unknown,none,pale,pink,unknown,male,37
+Ayla Secura,178,55,none,blue,hazel,48BBY,female,37
+Ratts Tyerel,79,15,none,"grey, blue",unknown,unknown,male,38
+Dud Bolt,94,45,none,"blue, grey",yellow,unknown,male,39
+Gasgano,122,unknown,none,"white, blue",black,unknown,male,40
+Ben Quadinaros,163,65,none,"grey, green, yellow",orange,unknown,male,41
+Mace Windu,188,84,none,dark,brown,72BBY,male,42
+Kit Fisto,196,87,none,green,black,unknown,male,44
+Eeth Koth,171,unknown,black,brown,brown,unknown,male,45
+Adi Gallia,184,50,none,dark,blue,unknown,female,9
+Saesee Tiin,188,unknown,none,pale,orange,unknown,male,47
+Yarael Poof,264,unknown,none,white,yellow,unknown,male,48
+Plo Koon,188,80,none,orange,black,22BBY,male,49
+Mas Amedda,196,unknown,none,blue,blue,unknown,male,50
+Gregar Typho,185,85,black,dark,brown,unknown,male,8
+CordÃƒÂ©,157,unknown,brown,light,brown,unknown,female,8
+Poggle the Lesser,183,80,none,green,yellow,unknown,male,11
+Luminara Unduli,170,56.2,black,yellow,blue,58BBY,female,51
+Barriss Offee,166,50,black,yellow,blue,40BBY,female,51
+DormÃƒÂ©,165,unknown,brown,light,brown,unknown,female,8
+Dooku,193,80,white,fair,brown,102BBY,male,52
+Bail Prestor Organa,191,unknown,black,tan,brown,67BBY,male,2
+Jango Fett,183,79,black,tan,brown,66BBY,male,53
+Zam Wesell,168,55,blonde,"fair, green, yellow",yellow,unknown,female,54
+Dexter Jettster,198,102,none,brown,yellow,unknown,male,55
+Taun We,213,unknown,none,grey,black,unknown,female,10
+Jocasta Nu,167,unknown,white,fair,blue,unknown,female,9
+R4-P17,96,unknown,none,"silver, red","red, blue",unknown,female,28
+Wat Tambor,193,48,none,"green, grey",unknown,unknown,male,56
+San Hill,191,unknown,none,grey,gold,unknown,male,57
+Shaak Ti,178,57,none,"red, blue, white",black,unknown,female,58
+Grievous,216,159,none,"brown, white","green, yellow",unknown,male,59
+Tarfful,234,136,brown,brown,blue,unknown,male,14
+Raymus Antilles,188,79,brown,light,brown,unknown,male,2
+Tion Medon,206,80,none,grey,black,unknown,male,12
+Finn,unknown,unknown,black,dark,dark,unknown,male,28
+Rey,unknown,unknown,brown,light,hazel,unknown,female,28
+Poe Dameron,unknown,unknown,brown,light,brown,unknown,male,28
+BB8,unknown,unknown,none,none,black,unknown,none,28
+Captain Phasma,unknown,unknown,unknown,unknown,unknown,unknown,female,28
