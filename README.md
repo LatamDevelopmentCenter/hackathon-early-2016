@@ -1,5 +1,4 @@
-[logo]: https://github.com/LatamDevelopmentCenter/hackathon-early-2016/blob/master/logo.png 
-
+[[https://github.com/LatamDevelopmentCenter/hackathon-early-2016/blob/master/logo.png|alt=logo]]
 
 # Hackathon Early 2016
 
