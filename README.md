@@ -1,3 +1,5 @@
+![](https://github.com/LatamDevelopmentCenter/hackathon-early-2016/blob/master/logo.png)
+
 # Hackathon Early 2016
 
 Welcome!
